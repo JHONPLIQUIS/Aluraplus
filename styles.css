@@ -20,9 +20,10 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("imagem-filmes.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-tracks: center;
 }
 
 .container {
